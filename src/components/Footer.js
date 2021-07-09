@@ -7,7 +7,6 @@ const Footer = (props) => (
         <p className="copyright">
          Built with <a href="http://gatsby-dimension.surge.sh">Gatsby.js</a> by <a href="https://blogsagar.netlify.app/"> Sagar Bhandari </a> with the template from <a href="http://www.adityaketkar.me"> Aditya Ketkar</a>  
         <br/>
-        Get your own version of this webpage <a href="https://github.com/adityaketkar/circle-packing-personal-homepage"> here </a>
         </p>
     </footer>
 )
