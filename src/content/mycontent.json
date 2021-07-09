@@ -19,42 +19,30 @@
     "I am currently an Engineering student. I run a youtube channel huley76."
   ],
   "WorkImage": "https://i.imgur.com/3YcwBwY.png",
-  "InternshipsStartLine": "Previously, I have interned with :",
+  "InternshipsStartLine": "You can find links to my work here :",
   "InternShips": [
     {
-      "name": "Amazon India",
-      "link": "#"
+      "name": "Youtube",
+      "link": "https://www.youtube.com/channel/UCJ8cb49C3uxCCRYmELN1JXg"
     },
     {
-      "name": "North-Eastern Space Application Center (ISRO) ↗",
-      "link": "https://drive.google.com/file/d/1fMoF7gUfsow8BxTIK7I7jf9wmq9v7wfq/view"
-    },
-    {
-      "name": "Computer Vision Center, Universitat Autonoma de Barcelona  ↗",
-      "link": "https://drive.google.com/file/d/1H9H4ja9TgpxYf4QxSfQH2bCZWyAFYwlC/view?usp=sharing"
+      "name": "Instagram",
+      "link": "https://www.instagram.com/b.pukar76"
     }
   ],
-  "ProjectsStartLine": "Some of my other works can be found here :",
+  "ProjectsStartLine": "Some of my videos can be found here :",
   "Projects": [
-    {
-      "name": "EdMad  ↗",
-      "link": "https://edmad.co"
+   {
+      "name": "Camping 2021  ↗",
+      "link": "https://www.youtube.com/watch?v=_0KvISqjqh8"
     },
     {
-      "name": "DelOr  ↗",
-      "link": "https://bitsdelor.wixsite.com/delor"
+      "name": "Jaguar F type commercial  ↗",
+      "link": "https://www.youtube.com/watch?v=at8BWG40FR4"
     },
     {
-      "name": "EisenList  ↗",
-      "link": "https://github.com/adityaketkar/eisenlist"
-    },
-    {
-      "name": "Alexa Music Companion  ↗",
-      "link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
-    },
-    {
-      "name": "Gatsby Personal Webpage  ↗",
-      "link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+      "name": "An unplanned trip to DURBUY  ↗",
+      "link": "https://www.youtube.com/watch?v=F7Hb-U9n3-8"
     }
   ],
   "showTalksAndBlogTab": false,
@@ -112,7 +100,7 @@
   "CV": "https://www.visualcv.com/aditya-ketkar/",
   "Resume": "https://drive.google.com/file/d/1zYV1lTNuGbMaB5-vnaGY5x-gnb9kAwWX/view?usp=sharing",
 
-  "emailid": "mailto:adityaketkar848@gmail.com",
+  "emailid": "huley76@gmail.com",
   "linkedin": "https://linkedin.com/in/adityaketkar",
   "wordpress": "https://technoshblog.wordpress.com/",
   "facebook": "https://www.facebook.com/aditya.ketkar.520",
