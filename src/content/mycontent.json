@@ -5,7 +5,7 @@
     "Engineering student from Vrije Universiteit Brussel. Passionate about Vlogging, Photography and Sports.",
     "I grab every chance I get to travel, learn and create."
   ],
-  "MainImage": "https://i.imgur.com/Sn5L67S.png",
+  "MainImage": "https://i.imgur.com/jjLz2fE.jpg",
   "BackgroundURL": "",
 
   "AboutImage": "https://i.imgur.com/NNB3QtH.png",
@@ -27,12 +27,16 @@
     },
     {
       "name": "Instagram",
-      "link": "https://www.instagram.com/b.pukar76"
+      "link": "https://www.instagram.com/huley76/"
     }
   ],
   "ProjectsStartLine": "Some of my videos can be found here :",
   "Projects": [
    {
+      "name": "LAND ROVER EVOQUE : My version for this BEAST!!!!  ↗",
+      "link": "https://www.youtube.com/watch?v=DPY0fMhMAbw"
+    },
+    {
       "name": "Camping 2021  ↗",
       "link": "https://www.youtube.com/watch?v=_0KvISqjqh8"
     },
@@ -102,11 +106,11 @@
 
   "emailid": "huley76@gmail.com",
   "linkedin": "https://www.linkedin.com/in/pukar-bhandari-69a59bbb",
-  "wordpress": "https://storiesfromsagar.wordpress.com/",
+  "wordpress": "https://www.wordpress.com/",
   "facebook": "https://www.facebook.com/profile.php?id=100006572565916",
   "github": "https://github.com/",
-  "instagram": "https://www.instagram.com/b.pukar76",
-  "twitter": "https://www.instagram.com/b.pukar76",
-  "medium": "https://www.instagram.com/b.pukar76",
+  "instagram": "https://www.instagram.com/huley76",
+  "twitter": "https://www.twitter.com",
+  "medium": "https://www.medium.com",
   "linktree": "https://linktr.ee"
 }
