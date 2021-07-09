@@ -1,86 +1,75 @@
 {
-  "Title": "Pukar Bhandari | Personal Webpage",
-  "Name": "Pukar Bhandari",
-  "Description": [
-    "Engineering student from Vrije Universiteit Brussel. Passionate about Vlogging, Photography and Sports.",
-    "I grab every chance I get to travel, learn and create."
-  ],
-  "MainImage": "https://i.imgur.com/Sn5L67S.png",
-  "BackgroundURL": "",
+	"Title": "Pukar Bhandari | Personal Webpage",
+	"Name": "Pukar Bhandari",
+	"Description": [
+		"Engineering student from Vrije Universiteit Brussel. Passionate about Vlogging, Photography and Sports.",
+		"I grab every chance I get to travel, learn and create."
+	],
+	"MainImage": "https://i.imgur.com/Sn5L67S.png",
+	"BackgroundURL": "",
 
-  "AboutImage": "https://i.imgur.com/NNB3QtH.png",
-  "AboutContent": [
-    "I’m an Engineering student during the school hours and a creator and vlogger during the weekends.",
-    "If you can’t find me, it’s because I’m already cycling, off to a hike, or cheering for Arsenal",
-    "I am passionate about learning, designing and creating.",
-  ],
+	"AboutImage": "https://i.imgur.com/NNB3QtH.png",
+	"AboutContent": [
+		"I’m an Engineering student during the school hours and a creator and vlogger during the weekends.",
+		"If you can’t find me, it’s because I’m already cycling, off to a hike, or cheering for Arsenal",
+		"I am passionate about learning, designing and creating."
+	],
 
-  "WorkContent": [
-    "I am currently an Engineering student. I run a youtube channel huley76."
-  ],
-  "WorkImage": "https://i.imgur.com/3YcwBwY.png",
-  ],
-  "ProjectsStartLine": "My channel can be found here :",
-  "Projects": [
-    {
-      "name": "huley76  ↗",
-      "link": "https://www.youtube.com/channel/UCJ8cb49C3uxCCRYmELN1JXg"
-    }
-  ],
+	"WorkContent": [
+		"I am currently an Engineering student. I run a youtube channel huley76."
+	],
 
-  "showTalksAndBlogTab": false,
-  "TalksAndBlogsTopContent": "I actively attend events to gain and share my knowledge. If you have an event/talk/panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at adityaketkar848[ at ]gmail[ dot ]com",
-  "TalkIntroLine": "",
-  "Talks": [
-    {
-      "talkTitle": "Front End Patterns for ⚡ Performance",
-      "talkMetadata": "@ Microsoft, March 2021",
-      "talkDescription": "A live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc (👻). A comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing",
-          "linkTitle": "Slides (pdf) ↗"
-        },
-        {
-          "url": "https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing",
-          "linkTitle": "Slides with videos (pptx)  ↗"
-        }
-      ]
-    },
-    {
-      "talkTitle": "Resume Drafting 101",
-      "talkMetadata": "@ EdMad, July 2020",
-      "talkDescription": "Zero to hero in drafting and maintaining a killer resume, all in 30 mins. A talk for final and pre-final year students and people looking to up their resume game 💪",
-      "links": [
-        {
-          "url": "https://drive.google.com/file/d/19vIO2utgN8zpioxbrRW8TtXIiHBBBTbk/view?usp=sharing",
-          "linkTitle": "Slides  ↗"
-        }
-      ]
-    }
-  ],
-  "BlogsIntroLine": "Here are some of my videos you might enjoy : ",
-  "Blogs": [
-    {
-      "blogTitle": "Camping 2021",
-      "link": "https://www.youtube.com/watch?v=_0KvISqjqh8"
-    },
-    {
-      "blogTitle": "Jaguar F-Type cpmmercial",
-      "link": "https://www.youtube.com/watch?v=at8BWG40FR4"
-    },
-  ],
+	"WorkImage": "https://i.imgur.com/3YcwBwY.png",
 
-  "CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
+	"ProjectsStartLine": "My channel can be found here :",
+	"Projects": [{
+		"name": "huley76  ↗",
+		"link": "https://www.youtube.com/channel/UCJ8cb49C3uxCCRYmELN1JXg"
+	}],
+
+	"showTalksAndBlogTab": false,
+	"TalksAndBlogsTopContent": "I actively attend events to gain and share my knowledge. If you have an event/talk/panel which I can be a part of in any way (to 🗣 or 👂 or both), feel free to reach out at adityaketkar848[ at ]gmail[ dot ]com",
+	"TalkIntroLine": "",
+	"Talks": [{
+			"talkTitle": "Front End Patterns for ⚡ Performance",
+			"talkMetadata": "@ Microsoft, March 2021",
+			"talkDescription": "A live and interactive deep dive into frontend-performance optimization with patterns like CSR, SPAs, SSR, SSG, ISG etc (👻). A comparative study of technologies behind Amazon, Gmail, Netflix along with some quick wins for perf improvements",
+			"links": [{
+					"url": "https://drive.google.com/file/d/13yhcpI_CwCU0np_tzTAUJGNci4hSGme3/view?usp=sharing",
+					"linkTitle": "Slides (pdf) ↗"
+				},
+				{
+					"url": "https://drive.google.com/file/d/19J08czyywp7JCioK8eDQ2Li83zW3bc3C/view?usp=sharing",
+					"linkTitle": "Slides with videos (pptx)  ↗"
+				}
+			]
+		},
+		{
+			"talkTitle": "Resume Drafting 101",
+			"talkMetadata": "@ EdMad, July 2020",
+			"talkDescription": "Zero to hero in drafting and maintaining a killer resume, all in 30 mins. A talk for final and pre-final year students and people looking to up their resume game 💪",
+			"links": [{
+				"url": "https://drive.google.com/file/d/19vIO2utgN8zpioxbrRW8TtXIiHBBBTbk/view?usp=sharing",
+				"linkTitle": "Slides  ↗"
+			}]
+		}
+	],
+	"BlogsIntroLine": "Here are some of my videos you might enjoy : ",
+	"Blogs": [{
+			"blogTitle": "Camping 2021",
+			"link": "https://www.youtube.com/watch?v=_0KvISqjqh8"
+		},
+		{
+			"blogTitle": "Jaguar F-Type cpmmercial",
+			"link": "https://www.youtube.com/watch?v=at8BWG40FR4"
+		}
+	],
+
+	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together 💪 ",
 
 
-  "emailid": "mailto:adityaketkar848@gmail.com",
-  "linkedin": "https://linkedin.com/in/adityaketkar",
-  "wordpress": "https://technoshblog.wordpress.com/",
-  "facebook": "https://www.facebook.com/aditya.ketkar.520",
-  "github": "https://github.com/adityaketkar",
-  "instagram": "http://www.adityaketkar.me",
-  "twitter": "https://twitter.com/adityaketkar",
-  "medium": "https://ketkar.medium.com/",
-  "linktree": "https://linktr.ee/ketkar"
+	"emailid": "mailto:huley76@gmail.com",
+	"linkedin": "https://linkedin.com/in/adityaketkar",
+	"facebook": "https://www.facebook.com/aditya.ketkar.520",
+	"instagram": "http://www.adityaketkar.me"
 }
